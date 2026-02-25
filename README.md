@@ -1,11 +1,12 @@
-# 👋 Hey, I’m Amogh
+# Hey, I’m Amogh
 
-I build things, break them, rebuild them cleaner, and occasionally question my life choices somewhere between `npm install` and debugging at 2 AM.
+I build things, break them, rebuild them cleaner, and occasionally question my life choices somewhere between `bun init` and debugging at 2 AM.
 
 I’m a **Computer Science student at the University of Toronto**, and I care just as much about *how things feel* as how they work. I like readable code, intentional design, and projects that don’t die quietly after one commit.
 
 Currently interested in:
 - Full-stack development
+- AI/ML Systems
 - UI/UX that doesn’t fight the user
 - Creative coding & visual systems
 - Tools that help people understand complex systems
