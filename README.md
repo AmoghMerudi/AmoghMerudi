@@ -57,17 +57,7 @@ If it blends logic, design, and controlled chaos, I’m in.
 
 ---
 
-## 📊 GitHub Stats (numbers go brr)
-![](https://github-readme-stats.vercel.app/api?username=AmoghMerudi&theme=shadow_blue&hide_border=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=AmoghMerudi&theme=shadow_blue&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmoghMerudi&theme=shadow_blue&hide_border=false&layout=compact)
 
----
-
-## 🔝 Top Contributions
-![](https://github-contributor-stats.vercel.app/api?username=AmoghMerudi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 
 Thanks for stopping by.  
 Feel free to browse, judge my commits, or silently stalk like a recruiter.
