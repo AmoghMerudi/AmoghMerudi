@@ -60,6 +60,6 @@ If it blends logic, design, and controlled chaos, I’m in.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AmoghMerudi&theme=dark)](https://git.io/streak-stats)
 
 Thanks for stopping by.  
-Feel free to browse, judge my commits, or silently stalk like a recruiter.
+Feel free to browse, judge my commits, or silently stalk like a recruiter (don't hesitate to hire me)
 
 [![](https://visitcount.itsvg.in/api?id=AmoghMerudi&icon=0&color=0)](https://visitcount.itsvg.in)
